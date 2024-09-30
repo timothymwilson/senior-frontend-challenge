@@ -8,7 +8,7 @@ Feel free to use any libraries or tools you prefer—just be prepared to explain
 
 ## Requirements
 
-1. **Create a Form**. The form should contain at least **4 different field types**. Examplie field types could include (but are not limited to):
+1. **Create a Form**. The form should contain at least **4 different field types**. Example field types could include (but are not limited to):
     * Text input (e.g., for a name)
     * Email input
     * Dropdown select
