@@ -1,0 +1,10 @@
+{
+  "title": "My Day at the Golf Course",
+  "content": [
+    "<p>Today was my big day on the golf course, and I was determined to play my best round yet! I started my day with a hearty breakfast of <span class='Result__Handwriting'>{{handicapIndex}}</span> <span class='Result__Handwriting'>{{worstFood}}</span> because I believed that a full stomach leads to a good swing.</p>",
+    "<p>When I arrived at the course, I felt a little nervous, rating my confidence level at a <span class='Result__Handwriting'>{{swear}}</span> out of 10. I grabbed 5 golf balls, convinced that was more than enough for my game. Little did I know, I’d lose at least <span class='Result__Handwriting'>{{trophyWeight}}</span> of them before the first hole!</p>",
+    "<p>As I stepped up to the tee, I channeled my inner pro and took a mighty swing. Instead of hitting the ball, I ended up hitting the ground and yelled <span class='Result__Handwriting'>{{loveJob}}</span> so loudly that I probably scared away 2 <span class='Result__Handwriting'>{{scaryAnimal}}</span>. My friends laughed and told me to calm down, but I rated my frustration at a solid 9.</p>",
+    "<p>During the round, I attempted a trick shot that I’d seen online where you take a shot opposite handed while singing <span class='Result__Handwriting'>{{favoriteSong}}</span>. It went horribly wrong, resulting in me hitting my friend’s golf bag instead of the ball. We joked that my shot was worth <span class='Result__Handwriting'>{{slicesPizza}}</span> points in the “What Not to Do” book of golf.</p>",
+    "<p>After the round, we decided to celebrate by having <span class='Result__Handwriting'>{{timeOnline}}</span> <span class='Result__Handwriting'>{{favoriteDrink}}</span> at the clubhouse. We laughed about my antics, and I promised to practice before our next round. The day ended on a high note when we all agreed that losing <span class='Result__Handwriting'>{{longestDrive}}</span> balls wasn’t a big deal—at least we had fun!</p>"
+  ]
+}

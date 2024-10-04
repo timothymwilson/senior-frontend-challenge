@@ -1,0 +1,124 @@
+{
+  "formData": {
+    "title": "<h2 class=\"form-title\">Senior Frontend Developer Mad Libs Challenge</h2>",
+    "logoAlt": "Barstool Sports Logo",
+    "inputs": [
+      {
+        "type": "select",
+        "title": "Which of these remind you of the worst food you've ever eaten?",
+        "name": "worstFood",
+        "label": "",
+        "defaultValue": "",
+        "required": true,
+        "placeholder": "Max 20 characters",
+        "options": [
+          "Anchovies",
+          "Rocky Mountain Oysters",
+          "Eggplant",
+          "Mystery Meat",
+          "Sardines"
+        ]
+      },
+      {
+        "type": "range",
+        "title": "I hear Markham plays a lot of golf. What do you think his handicap is?",
+        "name": "handicapIndex",
+        "label": "This is a number as high as 54. Most golfers lie so it's usually best to add 10 to your best guess.",
+        "defaultValue": 0,
+        "required": true,
+        "min": 0,
+        "max": 54
+      },
+      {
+        "type": "number",
+        "title": "How many hours a week do you think you spend online?",
+        "name": "timeOnline",
+        "label": "Be honest...",
+        "defaultValue": "",
+        "required": true
+      },
+      {
+        "type": "number",
+        "title": "What is the most times you have ever cursed at the TV while watching your favorite team?",
+        "name": "swear",
+        "label": "We all do it...at least those of us on planet earth.",
+        "defaultValue": 0,
+        "required": true,
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "title": "How much do you enjoy working for Barstool Sports?",
+        "name": "loveJob",
+        "label": "",
+        "defaultValue": "",
+        "required": true,
+        "options": [
+          "I'd do this for free",
+          "I work so hard! I'm ready for that promotion",
+          "I'm ready for my Barstool tattoo"
+        ]
+      },
+      {
+        "type": "number",
+        "title": "How many pounds do you think the Stanley Cup weighs?",
+        "name": "trophyWeight",
+        "label": "If you know this I'll be very impressed",
+        "defaultValue": 15,
+        "required": true,
+        "placeholder": ""
+      },
+      {
+        "type": "radio",
+        "title": "What do you think is the scariest animal in the world?",
+        "name": "scaryAnimal",
+        "label": "",
+        "defaultValue": "",
+        "required": true,
+        "options": [
+          "Saltwater Crocodile",
+          "Black Widow Spider",
+          "Vampire Bat",
+          "Great White Shark"
+        ]
+      },
+      {
+        "type": "text",
+        "title": "What is your favorite song?",
+        "name": "favoriteSong",
+        "label": "",
+        "defaultValue": "",
+        "required": true,
+        "placeholder": "(e.g.) Houndog, Macarena..."
+      },
+      {
+        "type": "number",
+        "title": "What is the most slices of pizza you've had in one sitting?",
+        "name": "slicesPizza",
+        "label": "",
+        "defaultValue": "",
+        "required": true,
+        "min": 1,
+        "max": 25
+      },
+      {
+        "type": "text",
+        "title": "What is your favorite drink?",
+        "name": "favoriteDrink",
+        "label": "Think desert island beverage",
+        "defaultValue": "",
+        "required": true,
+        "placeholder": "(e.g.) Coke, water, beer..."
+      },
+      {
+        "type": "range",
+        "title": "How many miles is the farthest you've driven without stopping?",
+        "name": "longestDrive",
+        "label": "",
+        "defaultValue": "",
+        "required": true,
+        "placeholder": "(e.g.) Coke, water, beer..."
+      }
+    ]
+  }
+}
