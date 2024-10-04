@@ -3,7 +3,7 @@ import FormInput from '../molecules/FormInput.molecule';
 import { InputTypes, FormData } from '../../types';
 import data from "../../data/form-data.json";
 import { mapInputType } from '../../utils/mapInputType';
-import { isEmailValid, isNumber, isInRange, isRequired } from '../../form-validation';
+import { isNumber, isInRange, isRequired } from '../../form-validation';
 import Result from './Result.organism';
 
 const Form: React.FC = () => {
