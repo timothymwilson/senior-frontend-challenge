@@ -10,7 +10,6 @@
         "label": "",
         "defaultValue": "",
         "required": true,
-        "placeholder": "Max 20 characters",
         "options": [
           "Anchovies",
           "Rocky Mountain Oysters",
